@@ -1,4 +1,3 @@
-git remote add origin https://github.com/habenyohannes3-stack/HYohannes.git
-git branch -M main
-git push -u origin main
-
+git add -A
+git commit -m "Go Gator!"
+git push
